@@ -2,4 +2,4 @@ Python backend-developer - FastApi, Django, Flask, Git, Docker, DRF, API, Postgr
 
 
 
-зайти в файл -> resume_Agzigitov Oskar.pdf
+зайти в файл -> resume_Agzigitv_O.pdf
